@@ -4,8 +4,8 @@ It includes all the assignments of Data Science Specialization Course which cont
 ## Repositories of following courses
 - [Introduction to Data Science](https://github.com/ayushirastogi15/Data-Science-Assignments/tree/master/Introduction%20to%20Data%20Science)
 
-- [Applied ML using Python]()
+- [Applied ML using Python](https://github.com/ayushirastogi15/Data-Science-Assignments/tree/master/Applied%20ML%20using%20Python)
 
-- [Social Network Analysis using Python]()
+- [Social Network Analysis using Python](https://github.com/ayushirastogi15/Data-Science-Assignments/tree/master/Social%20Network%20Analysis%20using%20Python)
 
-- [Text Mining using Python]()
+- [Text Mining using Python](https://github.com/ayushirastogi15/Data-Science-Assignments/tree/master/Applied%20Text%20Mining%20using%20Python)
